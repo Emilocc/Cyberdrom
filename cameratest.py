@@ -18,9 +18,7 @@
 # if __name__ == "__main__":
 #     main
 
-# git config --global user.name "Emilocc"
-# git config --global user.email "khamidullin_18@list.ru"
-git clone https://github.com/Emilocc/Cyberdrom.git
+
 
 from rzd import *
 import cv2
