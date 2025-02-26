@@ -1,0 +1,13 @@
+# Основные зависимости
+numpy>=1.26.4
+opencv-python>=4.8.0.76
+pyzbar>=0.1.9
+pymavlink>=2.4.41
+requests>=2.31.0
+
+# Зависимости для pion (установка из GitHub)
+git+https://github.com/OnisOris/pion.git#egg=pion
+
+# Для omegabot_poligon77 (установка из GitHub)
+git+https://github.com/BKVdevi/poligon77_omegabot_SDK.git#egg=omegabot_poligon77
+
